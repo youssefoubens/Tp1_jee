@@ -20,7 +20,7 @@ Ce projet illustre l'utilisation du **couplage faible** et de l'**injection de d
 5. **Injection des dépendances**
     - **a. Par instanciation statique**
    
-      ![Instanciation statique](images/is.png)
+      ![Instanciation statique](images/Is.png)
       Voici un exemple d'injection via Le constructeur :
       ![](images/IC.png)
       Résultats d'exécution:
